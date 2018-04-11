@@ -1,0 +1,14 @@
+canvas {
+    border: 2px solid;
+    background-image: url("../images/background.png");
+    background-size: 384px 448px;
+    margin: 20px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.arrow {
+    cursor: default;
+}
